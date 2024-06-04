@@ -60,29 +60,36 @@
       "titulo": "Descubre el poder del Machine Learning",
       "descripcion": "1 mil visualizaciones",
       "url": "https://www.youtube.com/embed/edS0Fhg0xyM",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 9
     },
     {
       "titulo": "Desvelando los secretos del Chat GPT: La revolución de la IA",
       "descripcion": "9 mil visualizaciones",
       "url": "https://www.youtube.com/embed/0_y09AwR6ns",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 10
     },
     {
       "titulo": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
       "descripcion": "4 mil visualizaciones",
       "url": "https://www.youtube.com/embed/ew1mwLviTWY",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 11
     },
     {
       "titulo": "Empresas que aprenden | #aluramás",
       "descripcion": "7 mil visualizaciones",
       "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 12
+    },
+    {
+      "titulo": "Life in NY",
+      "descripcion": "NaNmil visualizaciones",
+      "url": "https://www.youtube.com/embed/lqm0V9BJku8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13
     }
   ]
 }
